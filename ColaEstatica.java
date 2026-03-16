@@ -1,8 +1,22 @@
 public class ColaEstatica implements ColaTDA {
-    void inicializarCola();
-    void acolar(int x);
-    void desacolar();
-    int primero();
-    boolean colaVacia();
+    public void inicializarCola(){
+
+
+        // 
+    };
+    public void acolar(int x){
+
+        //
+    };
+    public void desacolar(){
+
+        //
+    };
+    public int primero(){
+        //
+    };
+    public boolean colaVacia(){
+        //
+    };
 
 }
