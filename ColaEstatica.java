@@ -1,8 +1,10 @@
 public class ColaEstatica implements ColaTDA {
+    
     public void inicializarCola(){
 
-
-        // 
+      """
+        Se inicializa la cola con un tamaño de x elementos
+     """
     };
     public void acolar(int x){
         """
