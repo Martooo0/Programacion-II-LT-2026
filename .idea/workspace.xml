@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c05b700-6479-4eeb-bd76-cd9188214ed7" name="Changes" comment="Main limpio" />
+    <list default="true" id="0c05b700-6479-4eeb-bd76-cd9188214ed7" name="Changes" comment="New README">
+      <change afterPath="$PROJECT_DIR$/TP/src/Interfaces/ColaTDA.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,14 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773689469901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New README">
+      <option name="closed" value="true" />
+      <created>1773690068902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773690068902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Interfaz de cola" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Main limpio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main limpio" />
+    <MESSAGE value="New README" />
+    <option name="LAST_COMMIT_MESSAGE" value="New README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
