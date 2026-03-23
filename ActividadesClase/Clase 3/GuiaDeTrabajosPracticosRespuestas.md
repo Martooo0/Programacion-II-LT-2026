@@ -32,6 +32,7 @@ e. *Leo \*c, reviso si tengo una operación guardada, si, tengo a+b, se lo aplic
 
 f. *Desapilo \*c y lo guardo (siguiendo la lógica iterativa del algoritmo).*
 
+
 *Otra forma es con la nomenclatura polaca:*
 
 a. *Leo a, lo guardo en la salida (aux).*
