@@ -20,33 +20,33 @@
 
 *Para respetar la jerarquía de los paréntesis se debería leer de afuera para adentro y ejecutar de adentro para afuera y al desapilar guardo la operación para no perderla. es decir:*
 
-a. * Apilo \*c.*
+a. *Apilo \*c.*
 
-b. * Apilo a+b.*
+b. *Apilo a+b.*
 
-c. * Antes de desapilar a+b chequeo si tengo una operación guardada, como no desapile nada anteriormente no operó.*
+c. *Antes de desapilar a+b chequeo si tengo una operación guardada, como no desapile nada anteriormente no operó.*
 
-d. * Desapilo a+b y lo guardo.*
+d. *Desapilo a+b y lo guardo.*
 
-e. * Leo \*c, reviso si tengo una operación guardada, si, tengo a+b, se lo aplico a a+b.*
+e. *Leo \*c, reviso si tengo una operación guardada, si, tengo a+b, se lo aplico a a+b.*
 
-f. * Desapilo \*c y lo guardo (siguiendo la lógica iterativa del algoritmo).*
+f. *Desapilo \*c y lo guardo (siguiendo la lógica iterativa del algoritmo).*
 
 *Otra forma es con la nomenclatura polaca:*
 
-a. * Leo a, lo guardo en la salida (aux).*
+a. *Leo a, lo guardo en la salida (aux).*
 
-b. * Leo b, lo guardo en la salida.*
+b. *Leo b, lo guardo en la salida.*
 
-c. * Apilo +.*
+c. *Apilo +.*
 
-d. * Antes de desapilar +, reviso si tengo operandos guardados: sí, tengo a y b. Los uno en ab+ y lo guardo.*
+d. *Antes de desapilar +, reviso si tengo operandos guardados: sí, tengo a y b. Los uno en ab+ y lo guardo.*
 
-e. * Leo c, lo guardo en la salida.*
+e. *Leo c, lo guardo en la salida.*
 
-f. * Apilo \*.*
+f. *Apilo \*.*
 
-g. * Antes de desapilar \*, reviso si tengo una operación guardada: sí, tengo ab+. Se lo aplico junto con c.*
+g. *Antes de desapilar \*, reviso si tengo una operación guardada: sí, tengo ab+. Se lo aplico junto con c.*
 
 h. *Desapilo \* y lo guardo, quedando ab+c\*.*
 
