@@ -8,7 +8,7 @@
 | Pablo Kim         | 1162102  |
 | Lisandro Forgione | 1186420  |
 | Nicolás Miozi     | 1189992  |
-| Matías Parodi     | —        |
+| Matías Parodi     | 1201606  |
 | Martín Ferreira   | 1187544  |
 
 
